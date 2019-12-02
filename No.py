@@ -1,4 +1,4 @@
-from collections import deque
+
 from Filme import Filme
 class Node:
     def __init__(self, filme=None, left=None, right=None):
